@@ -99,3 +99,7 @@ h1{
 main{
     background: #DCCCA3;
 }
+
+ul{
+    display: inline-block
+}

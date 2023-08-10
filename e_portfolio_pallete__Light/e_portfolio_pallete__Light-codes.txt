@@ -1,0 +1,11 @@
+Your selected colors:
+
+    Text: #0b1910 (RGB: 11, 25, 16)
+    Background: #fdf8ed (RGB: 253, 248, 237)
+    Primary: #1B512D (RGB: 27, 81, 45)
+    Secondary: #ecd8b1 (RGB: 236, 216, 177)
+    Accent: #42945d (RGB: 66, 148, 93)
+
+Realtime Colors link for selected colors: https://realtimecolors.com/?colors=0b1910-fdf8ed-1B512D-ecd8b1-42945d
+
+Thanks for using RealtimeColors.com!
